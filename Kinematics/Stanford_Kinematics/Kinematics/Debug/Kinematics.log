@@ -1,0 +1,14 @@
+﻿  SimplifiedStanfordKinematics.cpp
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\Stanford_Kinematics\Kinematics\Util.h(43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\Stanford_Kinematics\Kinematics\Util.h(46): warning C4018: '<': signed/unsigned mismatch
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\Stanford_Kinematics\Kinematics\Util.h(128): warning C4018: '<': signed/unsigned mismatch
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\Stanford_Kinematics\Kinematics\Util.h(152): warning C4018: '<': signed/unsigned mismatch
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\Stanford_Kinematics\Kinematics\Util.h(176): warning C4018: '<': signed/unsigned mismatch
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\Stanford_Kinematics\Kinematics\Util.h(209): warning C4018: '<': signed/unsigned mismatch
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\Stanford_Kinematics\Kinematics\Util.h(239): warning C4018: '<': signed/unsigned mismatch
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\Stanford_Kinematics\Kinematics\Util.h(269): warning C4018: '<': signed/unsigned mismatch
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\Stanford_Kinematics\Kinematics\Util.h(295): warning C4018: '<': signed/unsigned mismatch
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\Stanford_Kinematics\Kinematics\Util.h(324): warning C4018: '<': signed/unsigned mismatch
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\Stanford_Kinematics\Kinematics\Util.h(353): warning C4018: '<': signed/unsigned mismatch
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\Stanford_Kinematics\Kinematics\Util.h(380): warning C4018: '<': signed/unsigned mismatch
+  Kinematics.vcxproj -> C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\Stanford_Kinematics\Debug\Kinematics.exe

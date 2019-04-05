@@ -1,0 +1,7 @@
+This code is based on:
+
+- 6 (Angles: Waiste, Shoulder, Rotational Elbow, 3 angles for Wrist)
+- 6 (End-Effector Positions: Positions (x, y, z) and Orientation (Roll, Pitch, and Yaw))
+
+
+Data Distribution is even for dynamic cases
