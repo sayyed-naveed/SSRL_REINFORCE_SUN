@@ -1,0 +1,39 @@
+﻿  DatasetGenDelayedReinforceController.cpp
+  DatasetGenImmediateReinforceController.cpp
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\SSRL\REINFORCE_SUN\REINFORCE_SUN\DatasetGenImmediateReinforceController.cpp(451): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\SSRL\REINFORCE_SUN\REINFORCE_SUN\DatasetGenImmediateReinforceController.cpp(593): warning C4018: '<': signed/unsigned mismatch
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\SSRL\REINFORCE_SUN\REINFORCE_SUN\DatasetGenImmediateReinforceController.cpp(606): warning C4018: '<': signed/unsigned mismatch
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\SSRL\REINFORCE_SUN\REINFORCE_SUN\DatasetGenImmediateReinforceController.cpp(610): warning C4018: '<': signed/unsigned mismatch
+  Experiment.cpp
+  FeedForwardANN.cpp
+  Logger.cpp
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\SSRL\REINFORCE_SUN\REINFORCE_SUN\Logger.cpp(160): warning C4018: '<': signed/unsigned mismatch
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\SSRL\REINFORCE_SUN\REINFORCE_SUN\Logger.cpp(163): warning C4018: '<': signed/unsigned mismatch
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\SSRL\REINFORCE_SUN\REINFORCE_SUN\Logger.cpp(235): warning C4018: '<': signed/unsigned mismatch
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\SSRL\REINFORCE_SUN\REINFORCE_SUN\Logger.cpp(237): warning C4018: '<': signed/unsigned mismatch
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\SSRL\REINFORCE_SUN\REINFORCE_SUN\Logger.cpp(240): warning C4018: '<': signed/unsigned mismatch
+  NetworkDelayedReinforceController.cpp
+  NetworkImmediateReinforceController.cpp
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\SSRL\REINFORCE_SUN\REINFORCE_SUN\NetworkImmediateReinforceController.cpp(66): warning C4018: '<': signed/unsigned mismatch
+  REINFORCE_SUN.cpp
+  SUNAdaptiveController.cpp
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\SSRL\REINFORCE_SUN\REINFORCE_SUN\SUNAdaptiveController.cpp(106): warning C4018: '<': signed/unsigned mismatch
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\SSRL\REINFORCE_SUN\REINFORCE_SUN\SUNAdaptiveController.cpp(108): warning C4018: '<': signed/unsigned mismatch
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\SSRL\REINFORCE_SUN\REINFORCE_SUN\SUNAdaptiveController.cpp(121): warning C4018: '<': signed/unsigned mismatch
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\SSRL\REINFORCE_SUN\REINFORCE_SUN\SUNAdaptiveController.cpp(123): warning C4018: '<': signed/unsigned mismatch
+  SUNDelayedReinforceController.cpp
+  SUNFeedForwardANN.cpp
+  SUNImmediateReinforceController.cpp
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\SSRL\REINFORCE_SUN\REINFORCE_SUN\SUNImmediateReinforceController.cpp(131): warning C4018: '<': signed/unsigned mismatch
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\SSRL\REINFORCE_SUN\REINFORCE_SUN\SUNImmediateReinforceController.cpp(159): warning C4018: '<': signed/unsigned mismatch
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\SSRL\REINFORCE_SUN\REINFORCE_SUN\SUNImmediateReinforceController.cpp(185): warning C4018: '<': signed/unsigned mismatch
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\SSRL\REINFORCE_SUN\REINFORCE_SUN\SUNImmediateReinforceController.cpp(187): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\SSRL\REINFORCE_SUN\REINFORCE_SUN\SUNImmediateReinforceController.cpp(189): warning C4018: '<': signed/unsigned mismatch
+  SynapseDelayedReinforceController.cpp
+  SynapseImmediateReinforceController.cpp
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\SSRL\REINFORCE_SUN\REINFORCE_SUN\SynapseImmediateReinforceController.cpp(41): warning C4018: '<': signed/unsigned mismatch
+  UnitDelayedReinforceController.cpp
+  UnitImmediateReinforceController.cpp
+C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\SSRL\REINFORCE_SUN\REINFORCE_SUN\UnitImmediateReinforceController.cpp(53): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  REINFORCE_SUN.vcxproj -> C:\Users\navsha\OneDrive - Microsoft\Desktop\Research\SSRL\SUN\Code\Robotic Arm Kinematics\SSRL\REINFORCE_SUN\Debug\REINFORCE_SUN.exe
